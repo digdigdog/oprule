@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,huyaapi.com
 DOMAIN-SUFFIX,lziapi.com
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,youku.com
-DOMAIN-SUFFIX,iqiyi.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
