@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,lziapi.com
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,kepa.com
-
+DOMAIN-SUFFIX,kepa1.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
