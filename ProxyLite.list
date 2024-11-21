@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,leshiapi.com
 DOMAIN-SUFFIX,apiyutu.com
 DOMAIN-SUFFIX,tawk.to
 DOMAIN-SUFFIX,xapo.com
+DOMAIN-SUFFIX,oracle.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
