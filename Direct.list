@@ -22,6 +22,9 @@ DOMAIN-SUFFIX,lbapi9.com
 DOMAIN-SUFFIX,lbtup2025.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,ss.badboy.cc
+DOMAIN-SUFFIX,ngrok-agent.com
+DOMAIN-SUFFIX,ngrok-free.app
+DOMAIN-SUFFIX,ngrok.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
