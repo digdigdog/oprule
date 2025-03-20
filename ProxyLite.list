@@ -13,10 +13,11 @@ DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,idpifa.com
 DOMAIN-SUFFIX,badboy.cc
 DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,json.heimuer.xyz
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
-DOMAIN-KEYWORD,heimuer
+DOMAIN-KEYWORD,heimuer2
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
