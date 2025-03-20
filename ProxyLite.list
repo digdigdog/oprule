@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,xapo.com
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,idpifa.com
 DOMAIN-SUFFIX,badboy.cc
+DOMAIN-SUFFIX,linux.do
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
