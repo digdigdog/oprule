@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,ss.badboy.cc
 DOMAIN-SUFFIX,ngrok-agent.com
 DOMAIN-SUFFIX,ngrok-free.app
 DOMAIN-SUFFIX,ngrok.com
+DOMAIN-SUFFIX,json02.heimuer.xyz
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
