@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,fenwe078.cf
 DOMAIN-SUFFIX,huyaapi.com
 DOMAIN,hxd.as174.de
 DOMAIN-SUFFIX,lziapi.com
-DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,accreg.com
@@ -25,7 +24,7 @@ DOMAIN-SUFFIX,ss.badboy.cc
 DOMAIN-SUFFIX,ngrok-agent.com
 DOMAIN-SUFFIX,ngrok-free.app
 DOMAIN-SUFFIX,ngrok.com
-DOMAIN-SUFFIX,json02.heimuer.xyz
+DOMAIN-SUFFIX,heimuer.xyz
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
