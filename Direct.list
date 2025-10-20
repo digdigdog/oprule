@@ -26,6 +26,11 @@ DOMAIN-SUFFIX,ngrok-free.app
 DOMAIN-SUFFIX,ngrok.com
 DOMAIN-SUFFIX,heimuer.xyz
 
+# cloudflare tunnel
+DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,cftunnel.com
+DOMAIN-SUFFIX,trycloudflare.com
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
