@@ -3,11 +3,8 @@
 DOMAIN-KEYWORD,ddkdkdkd
 # 域名后缀匹配
 DOMAIN-SUFFIX,69yun69.com
-DOMAIN-SUFFIX,apilsbzy1.com
-DOMAIN-SUFFIX,leshiapi.com
-DOMAIN-SUFFIX,apiyutu.com
-DOMAIN-SUFFIX,mdav91.com
-DOMAIN-SUFFIX,avple.tv
 DOMAIN-SUFFIX,setushe.pics
 DOMAIN-SUFFIX,mjji.de
 DOMAIN,emby.as174.de
+# IP段匹配
+IP-CIDR,107.173.255.170/32,no-resolve
