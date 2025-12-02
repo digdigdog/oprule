@@ -24,11 +24,10 @@ DOMAIN-SUFFIX,ngrok-free.app
 DOMAIN-SUFFIX,ngrok.com
 DOMAIN-SUFFIX,heimuer.xyz
 DOMAIN-SUFFIX,day.app
+DOMAIN-SUFFIX,mtyy4.com
 
 DOMAIN,nas.badboy.cc
 DOMAIN,challenges.cloudflare.com
-
-
 
 # cloudflare tunnel
 DOMAIN-SUFFIX,argotunnel.com
