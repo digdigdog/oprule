@@ -38,7 +38,7 @@ DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
-IP-CIDR,107.173.156.7/32,no-resolve
+#IP-CIDR,107.173.156.7/32,no-resolve
 IP-CIDR,104.223.50.116/32,no-resolve
 IP-CIDR,104.140.238.25.96/32,no-resolve
 IP-CIDR,130.162.138.45/32,no-resolve
