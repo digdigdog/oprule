@@ -29,6 +29,12 @@ DOMAIN-SUFFIX,day.app
 DOMAIN-SUFFIX,mtyy4.com
 DOMAIN-SUFFIX,cdn2020.com
 DOMAIN,nas.badboy.cc
+DOMAIN,youxuan.cf.090227.xyz
+DOMAIN,123.cf.090227.xyz
+DOMAIN,store.ubi.com
+DOMAIN,staticdelivery.nexusmods.com
+DOMAIN,cf.tencentapp.cn
+
 
 # cloudflare tunnel
 DOMAIN-SUFFIX,argotunnel.com
