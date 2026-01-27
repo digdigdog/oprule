@@ -56,6 +56,11 @@ IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,104.223.50.116/32,no-resolve
 IP-CIDR,104.140.238.25.96/32,no-resolve
 IP-CIDR,130.162.138.45/32,no-resolve
+IP-CIDR,140.245.50.45/32,no-resolve
+IP-CIDR,140.245.56.105/32,no-resolve
+IP-CIDR,140.245.55.234/32,no-resolve
+IP-CIDR,140.245.40.172/32,no-resolve
+
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
