@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,wwspay.com
 DOMAIN-SUFFIX,filomail.com
 DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,supabase.co
-
+DOMAIN-SUFFIX,bitfinex.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
