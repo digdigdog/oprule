@@ -61,6 +61,7 @@ IP-CIDR,130.162.138.45/32,no-resolve
 IP-CIDR,140.245.50.45/32,no-resolve
 IP-CIDR,140.245.56.105/32,no-resolve
 IP-CIDR,140.245.40.172/32,no-resolve
+IP-CIDR,132.145.95.124/32,no-resolve
 
 
 # 国内DNS
