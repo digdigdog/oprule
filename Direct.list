@@ -43,6 +43,8 @@ DOMAIN-SUFFIX,xl01.com.de
 DOMAIN-SUFFIX,dytt-kan.com
 DOMAIN-SUFFIX,dytt-film.com
 DOMAIN-SUFFIX,dytt-video.com
+DOMAIN-SUFFIX,commandcode.ai
+
 
 # cloudflare tunnel
 DOMAIN-SUFFIX,argotunnel.com
