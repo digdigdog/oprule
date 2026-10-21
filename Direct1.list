@@ -33,10 +33,13 @@ DOMAIN,youxuan.cf.090227.xyz
 DOMAIN,123.cf.090227.xyz
 DOMAIN,store.ubi.com
 DOMAIN,staticdelivery.nexusmods.com
-DOMAIN,cf.tencentapp.cn
 DOMAIN,cloudflare-dl.byoip.top
-
+DOMAIN,cf.tencentapp.cn
 DOMAIN,shandianshuo.cn
+
+
+DOMAIN-SUFFIX,spaceship-cdn.com
+DOMAIN-SUFFIX,spaceship.com
 DOMAIN-SUFFIX,ddys.app
 DOMAIN-SUFFIX,xl01.com.de
 DOMAIN-SUFFIX,dytt-kan.com
